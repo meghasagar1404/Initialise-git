@@ -1,0 +1,29 @@
+.main{
+  border: 2px solid red;
+  width: 80px;
+  text-align: center;
+
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 12px;
+}
+/* h1{
+    color: aqua;
+    background-color: blueviolet;
+} */
+#first{
+    color: red;
+    background-color: aqua;
+
+}
+.img1{
+    height: 80px;
+    width: 80px;
+}
+.text{
+    text-align: center;
+}
+.btn{
+    height: 30px;
+    width: 35px;
+}
